@@ -7,3 +7,7 @@ Sends automated updates to the rider and registered guardian during emergencies.
 ## Dispatch Emergency Services
 Handles dispatching emergency services automatically upon crash detection.
 **Status: Implemented**
+
+## View Incoming Crash/SOS Alerts
+Allows emergency responders to view incoming crash and SOS alerts in real time.
+**Status: Implemented**
